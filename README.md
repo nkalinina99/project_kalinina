@@ -5,3 +5,8 @@
 
 ![image](https://user-images.githubusercontent.com/35600186/138248667-989e879a-b421-4e95-854a-41a7bc46f134.png)
 
+## Применение в культурологии:
+1. Создание начального массива информации по теме
+
+## Пример исследования:
+![image](https://user-images.githubusercontent.com/35600186/138251314-dfcc2269-1a58-4fab-94f6-6f01ba970c25.png)
